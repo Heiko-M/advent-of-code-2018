@@ -12,7 +12,7 @@ def main(id_file_path):
     twice = 0
     thrice = 0
 
-    with open(sys.argv[1], 'r') as id_file:
+    with open(id_file_path, 'r') as id_file:
         for line in id_file:
             box_id = line.strip()
             if has_repeat(box_id, 2):
