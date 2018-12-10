@@ -2,15 +2,15 @@
 
 Here you can find my solutions to the [Advent of Code 2018](https://adventofcode.com/) puzzles. I made it a personal challenge to complete each day with a different programming language... :joy:
 
-- [x] Day 1
-  - [x] Part 1 *(Vala)*
-  - [x] Part 2 *(Vala)*
-- [x] Day 2
-  - [x] Part 1 *(Python)*
-  - [x] Part 2 *(Python)*
-- [ ] Day 3
-  - [x] Part 1 *(Ruby)*
-  - [ ] Part 2 *(Ruby)*
+- [x] Day 1 *- Vala*
+  - [x] Part 1
+  - [x] Part 2
+- [x] Day 2 *- Python*
+  - [x] Part 1
+  - [x] Part 2
+- [x] Day 3 *- Ruby*
+  - [x] Part 1
+  - [x] Part 2
 - [ ] Day 3
   - [ ] Part 1
   - [ ] Part 2
