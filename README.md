@@ -11,11 +11,8 @@ Here you can find my solutions to the [Advent of Code 2018](https://adventofcode
 - [x] Day 3 *- Ruby*
   - [x] Part 1
   - [x] Part 2
-- [ ] Day 3
-  - [ ] Part 1
-  - [ ] Part 2
-- [ ] Day 4
-  - [ ] Part 1
+- [ ] Day 4 *- Java*
+  - [x] Part 1
   - [ ] Part 2
 - [ ] Day 5
   - [ ] Part 1
@@ -33,6 +30,12 @@ Here you can find my solutions to the [Advent of Code 2018](https://adventofcode
   - [ ] Part 1
   - [ ] Part 2
 - [ ] Day 10
+  - [ ] Part 1
+  - [ ] Part 2
+- [ ] Day 11
+  - [ ] Part 1
+  - [ ] Part 2
+- [ ] Day 12
   - [ ] Part 1
   - [ ] Part 2
 
